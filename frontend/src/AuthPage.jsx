@@ -15,6 +15,7 @@ const AuthPage = (props) => {
             <form onSubmit={onSubmit} className="form-card">
                 <div className="form-title">Welcome to ChatGram 👋</div>
 
+                <div className="form-subtitle"><small>Built by Godwin Chinenye Godlove</small></div>
                 <div className="form-subtitle">Choose your ChatGram username</div>
 
                 <div className="auth">
